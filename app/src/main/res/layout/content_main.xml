@@ -12,6 +12,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/text_margin"
-        android:text="@string/large_text" />
+        android:text="Me llamo Joaquín Astorga y tengo 23 años de edad. Mis hobbies son, salir a trotar, jugar videojuegos, escuchar música y ver anime. Soy una persona a la que gusta aprender cosas nuevas, soy muy curioso en cuanto a la tecnología y la resolución de problemas, también tengo que destacar mi afición por las nuevas ideas y el espíritu emprendedor, además de lo anterior soy muy puntual y responsable en mis trabajos .  En cuanto a mi formación de enseñanza media, la realicé en un colegió científico humanista, para mas tarde estudiar técnico en odontología en el instituto Duoc Uc. Luego, a un mes de mi titulación encontré trabajo en la clínica Uno salud dental, en la que me desempeñé en diferentes áreas de la especialidad y no solo esto, ya que realicé cursos con la finalidad de perfeccionar mi perfil de trabajador y también mi conocimiento personal.  Actualmente me encuentro estudiando ingeniería informática en Duoc Uc. Es importante detallar que el gusto por la programación y la creación de aplicaciones surge a través de un conocido, el cual me orientó en el tema. Al día hoy, además de lo mencionado anteriormente, me encuentro realizando un curso tipo bootcamp referente al desarrollo de aplicaciones Android. "
+        android:textAlignment="textStart"
+        android:textSize="18sp"
+        app:autoSizeTextType="uniform" />
 
 </androidx.core.widget.NestedScrollView>
